@@ -121,3 +121,30 @@ export const useInertiaTicker = (callback) => {
 
   return stateRef;
 };
+
+
+
+
+
+
+// Ejemplo de uso dentro de un componente UI Minimalista
+import { useInertiaTicker } from './animations/lerp-scroll-inertia';
+
+export const CustomInteractiveContainer = () => {
+  const elementRef = useRef(null);
+
+  useInertiaTicker((currentPhysics) => {
+    if (!elementRef.current) return;
+    
+    // Aplicamos el scroll suavizado o el movimiento del mouse directamente mediante transformaciones de hardware (GPU)
+    elementRef.current.style.transform = `translate3d(${currentPhysics.x * 20}px, ${currentPhysics.y * 20}px, 0)`;
+  });
+
+  return (
+    <div ref={elementRef} className="minimal-card">
+      {/* Contenido UI */}
+    </div>
+  );
+};
+
+
