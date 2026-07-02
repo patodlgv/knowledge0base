@@ -74,3 +74,5 @@ Una técnica entra cuando: (1) se vio en 3+ sitios ganadores o resolvió un proy
 ### 07 · `copywriting-mx.md` / `seo-local-mx.md` / `cro-avanzado.md` — copy es-MX, GBP+schema, multiplicadores con datos.
 ### 09-marketing (nueva) · `funnel-y-ads.md` — funnel MX completo (CTWA, nurture, retargeting, métricas, infra de página). `seo-completo-2026.md` — clusters, técnico, GEO/AEO (ser citado por las IAs).
 ### 08 · `proceso-end-to-end-award.md` — de brief a SOTD + mapa competitivo MX/LATAM.
+
+### 01 · `heros-maestros.md` — EL CATALOGO DEFINITIVO: 14 patrones de hero nivel estudio (Awwwards/godly/Codrops 2024-2026) con anatomia exacta, motion, detalle firma, asignacion por nicho, tipografia 2026 y 8 tecnicas CSS para elevar fotos mediocres de Google Maps. El hero decide en 50ms.
