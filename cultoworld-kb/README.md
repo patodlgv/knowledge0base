@@ -66,3 +66,11 @@ Cada archivo declara: **Tier** (LIGERO/PREMIUM/AMBOS), **Costo de perf** (BAJO/M
 ## Cómo crecer este KB
 
 Una técnica entra cuando: (1) se vio en 3+ sitios ganadores o resolvió un proyecto real, (2) tiene código probado o de fuente oficial, (3) queda etiquetada con tier + costo + cuándo no usarla. Principios sobre copias.
+
+## Añadidos (julio 2026, ronda 2)
+
+### 01 · `hero-handoff.md` — protocolo para heros hechos a mano: la fábrica construye todo menos el hero y deja HeroSlot + HERO-BRIEF.md con propuesta de storytelling lista. Para proyectos top.
+### 07 · `psicologia-conversion.md` — Cialdini, sesgos conductuales, psicología del precio, confianza (Stanford), mitos desmentidos. El "por qué" de todo 07.
+### 07 · `copywriting-mx.md` / `seo-local-mx.md` / `cro-avanzado.md` — copy es-MX, GBP+schema, multiplicadores con datos.
+### 09-marketing (nueva) · `funnel-y-ads.md` — funnel MX completo (CTWA, nurture, retargeting, métricas, infra de página). `seo-completo-2026.md` — clusters, técnico, GEO/AEO (ser citado por las IAs).
+### 08 · `proceso-end-to-end-award.md` — de brief a SOTD + mapa competitivo MX/LATAM.
